@@ -1,0 +1,4 @@
+#Fri Feb 02 20:44:58 IST 2024
+base.0=/Users/praddoom/Documents/lol-flut/flutter_application_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
